@@ -1,5 +1,7 @@
 Phantomjs-promise
 ===========================
+[![Build Status](https://travis-ci.org/zsxsoft/phantomjs-promise.svg?branch=master)](https://travis-ci.org/zsxsoft/phantomjs-promise)
+[![NPM version](https://badge.fury.io/js/phantomjs-promise.svg)](http://badge.fury.io/js/phantomjs-promise)
 
 This's a library that promisify [phantomjs-node](https://github.com/sgentle/phantomjs-node). You don't need to install either [phantomjs-node](https://github.com/sgentle/phantomjs-node) nor [phantomjs](https://github.com/ariya/phantomjs). Require it, then it will Promises/A+ compliant.
 

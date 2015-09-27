@@ -15,5 +15,20 @@
   "devDependencies": {
     "image-size": "^0.3.5",
     "mocha": "^2.3.3"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zsxsoft/phantomjs-promise.git"
+  },
+  "keywords": [
+    "Phantomjs",
+    "Phantom"
+  ],
+  "bugs": {
+    "url": "https://github.com/zsxsoft/phantomjs-promise/issues"
+  },
+  "homepage": "https://github.com/zsxsoft/phantomjs-promise#readme"
 }
