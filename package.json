@@ -1,0 +1,19 @@
+{
+  "name": "phantomjs-promise",
+  "version": "0.0.1",
+  "description": "Promisify Phantomjs with Bluebird",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "zsx <zsx@zsxsoft.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^2.10.1",
+    "phantom": "^0.8.0"
+  },
+  "devDependencies": {
+    "image-size": "^0.3.5",
+    "mocha": "^2.3.3"
+  }
+}
